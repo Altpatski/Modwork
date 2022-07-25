@@ -1,0 +1,16 @@
+{
+	"mods": [
+		{
+			"name": "Sample skin mod",
+			"desc": "BF reskin for big dick energy Tankbro",
+			
+			"contributors": {
+				"JoaDash": "Spriter, Animator",
+				"PhantomArcade": "Original Tankman Sprites / Animations.",
+				"JohnnyUtah": "Tankman Creator"
+			},
+
+			"url": ""
+		}
+	]
+}
